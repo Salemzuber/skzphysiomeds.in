@@ -1,0 +1,19 @@
+.my-sec{
+    background-image: url('hero_1.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+}
+
+.my-sec1{
+    background-image: url('hero_2.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: cover;
+}
+
+.logocolor{
+
+
+    background-color: #CCEEFD;
+}

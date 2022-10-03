@@ -1,0 +1,29 @@
+<!-- footer -->
+      <div class="row text-center text-white">
+        <div class="col-sm-12 bg-black text-center text-white">
+            <h2>About Us</h2>
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab adipisci totam ipsa laudantium
+                repudiandae velit neque sed vero veritatis, dolores eaque? Similique, cum dicta enim, eaque nisi
+                neque quis illum obcaecati maxime nobis excepturi tempora.</p>
+            <br><br>
+
+            <img src="images/logo.jpg"
+                style="height: 100px ;width: 100px  ;  border-radius: 100px 100px 100px 100px; border: 2px solid  red;">
+
+            <p> Copyright &copy; 2022</p>
+           <span class="text-danger">SKZ Physiomeds Pvt.ltd</span>
+            <p>Developed by</p>
+            <p class="text-danger">Er.Salem Zubair</p>
+            <!-- Facebook -->
+            <a style="color: #fdfdfd;" href="#" role="button"
+                class="pe-3"><i class="fab fa-facebook-f fa-lg"></i></a>
+
+            <!-- linkedin -->
+            <a style="color: #ffffff;" href="#" role="button"
+                class="pe-3"><i class="fab fa-linkedin fa-lg"></i></a>
+
+            <!-- Instagram -->
+            <a style="color: #ffffff;" href="#" role="button"
+                class="pe-3"><i class="fab fa-instagram fa-lg"></i></a>
+        </div>
+    </div>
